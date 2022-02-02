@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1>Hey👋, I'm Anusha!</h1>
 
-<!--
-**anushajoseph/anushajoseph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://komarev.com/ghpvc/?username=anushajoseph&color=red&label=PROFILE+VIEWS)
+<br>
 
-Here are some ideas to get you started:
+## I'm a Computer Science Engineering Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning front end web development using HTML, CSS and ReactJS.
+- 💬 Ask me about music :)
+- 😄 Pronouns: She/her.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anushajoseph&show_icons=true&theme=github_dark&hide_border=1)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anushajoseph&theme=github_dark&hide_border=1)
