@@ -1,6 +1,5 @@
 <h1>Hey👋, I'm Anusha!</h1>
 
-![](https://komarev.com/ghpvc/?username=anushajoseph&color=red&label=PROFILE+VIEWS)
 <br>
 
 ## CSE Graduate
